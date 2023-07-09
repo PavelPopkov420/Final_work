@@ -22,9 +22,11 @@
 4. Установить и удалить deb-пакет с помощью dpkg.
    ![Image alt](https://github.com/PavelPopkov420/Final_work/blob/main/4.jpg)
 5. Выложить историю команд в терминале ubuntu
+
 6. Нарисовать диаграмму, в которой есть класс родительский класс, домашние животные и вьючные животные,
    в составы которых в случае домашних животных войдут классы:
    собаки, кошки, хомяки, а в класс вьючные животные войдут: Лошади, верблюды и ослы). 
+   ![Image alt](https://github.com/Final_work/blob/main/Classes.jpg)
 
 7. В подключенном MySQL репозитории создать базу данных “Друзья человека”\
 ```` CREATE DATABASE Human_friends; ````
@@ -228,3 +230,8 @@ SELECT * FROM yang_animal;
     блоке try-with-resources. Нужно бросить исключение, если работа с объектом
     типа счетчик была не в ресурсном try и/или ресурс остался открыт. Значение
     считать в ресурсе try, если при заведения животного заполнены все поля.
+
+    ![Image alt](https://github.com/PavelPopkov420/Final_work/blob/main/sql.jpg)
+    ![Image alt](https://github.com/PavelPopkov420/Final_work/blob/main/program.jpg)
+
+    
