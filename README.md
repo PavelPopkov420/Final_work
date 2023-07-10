@@ -232,6 +232,6 @@ SELECT * FROM yang_animal;
     считать в ресурсе try, если при заведения животного заполнены все поля.
 
     ![Image alt](https://github.com/PavelPopkov420/Final_work/blob/main/sql.jpg)
-    ![Image alt](https://github.com/PavelPopkov420/Final_work/blob/main/program.jpg)
+   
 
     
